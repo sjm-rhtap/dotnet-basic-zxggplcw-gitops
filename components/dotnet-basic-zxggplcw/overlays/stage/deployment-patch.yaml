@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.8
+      - image: artifactory-docker-artifactory.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/dotnet-basic-zxggplcw:e7881a08a29118c30d19db490e3615a4dc91e925@sha256:79dcc93b5d6b50d2fb1e9590c3c7c7e166e78bffdbc22cf13808e04864e3bcb4
         name: container-image  
